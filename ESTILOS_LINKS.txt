@@ -1,0 +1,81 @@
+____________________________________
+	Reglas hexadecimal
+
+Notacion en Hexadecimal
+#ffffff: Color completamente blanco
+#000000: Color completamente negro
+
+___________________________________
+	Background
+Podemos modificar el fondo de un 
+elemento con la propiedad backgraund.
+CSS3
+#elemento
+{	
+background:
+color|image|repeat|attachment|position 	
+}
+body
+{
+background:|#eee|url("rules.jpg")
+|no-repeat|fixed|50% 50%;
+}
+Parameters
+-Color: El color del fondo del sitio
+-Image: la ruta de la imagen
+	url.(fondo.gif).
+-Repeat: con esto establecemos si la
+imagen se repite o no, con "repeat"
+se repite siempre en ambos sentidos
+-attachment:sirve para indicar si 
+el fondo se queda fijo en el sitio o
+se desplaza con scroll.
+	-scroll(se deplaza)
+	-fixed(se que da en 
+		el mismo sitio)
+-Position: indica la posicion del
+fondo. Es preferible utilizar palabras
+para indicar en que parte queremos
+el fondo.Los valores por defecto son
+0% 0%,que situan al fondo en la 
+esquina superior izquierda.Fondo
+centrado 50% 50%
+______________________________________
+	Links que Cambian
+Los enlaces tiene tres estados
+-Sin visitar(normales)
+	a:link{
+	text-decoration:none;
+	}
+
+-Hover(el color
+al que cambia la letra del
+enlance cuando pasamos el cursor del
+raton por encima del mismo y la
+linea que aparece debajo del enlance)
+*Example
+	nav ul li a:hover
+	{
+	  text-decoration:underline;
+	  color:#00f;
+	}
+
+-Activos(al momento de hacer click
+sobre el enlace)
+*Example
+a:active {
+    font-weight: bold;
+}
+
+-Visitados(cuando ya hemos ido en
+esa direccion)
+*Example
+a:visited {
+color: #a00;
+}
+__________________________________________
+Links con el subrayado de diferente color
+a
+{
+border-bottom:1px solid #F0c;
+}

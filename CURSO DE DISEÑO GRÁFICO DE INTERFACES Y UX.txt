@@ -1,0 +1,83 @@
+5 errores tipográficos comunes en el
+diseño web y cómo 
+solucionarlos: Cromos vs T-magazine
+_____________________________________
+"La buena tipografia es invisible
+, la mala tipografia esta en
+todas partes."
+-------------------------------
+1. Escoger una fuente incorrecta
+en parrafos: serif o sans-serif
+
+"La adecuada maquetacion logra
+que leer en una pantalla sea
+una buena experiencia."
+
+"El objetivo es transmitir las
+ideas de los autores."
+
+"En algunos textos largos es 
+mas conveninete utilizar fuentes
+con serifas asi se crean 
+parrafos mas agradables para 
+leer porque asi se cansa menos 
+la vista."
+
+2.-Parrafos con rios o "calaveras."
+
+"El espacion entre palabras en un
+parrafo deberia mantenerse uniforme"
+
+"Las calaveras en ocaciones de forma
+al tratar de justificar 
+completamente el texto."
+
+"Para justificar solo hacia la
+izquierda o derecha."
+
+3.-Textos "extracto" cortados.
+
+"Si se previsualizan articulos 
+dentro de una pagina interna y el
+texto esta cortado mas aparte es
+seguido de puntos suspensivos se 
+vera como un error de diseño no
+de edicion."
+
+" Si articulo es muy extenso y se 
+requiere continuar agreguese un
+link con la frase "leer mas" o 
+"More"  asi dara a entender que
+es un enlace para ver articulo
+completo."
+
+4.- Ignorar los interlineados y 
+espacios entre letras.
+
+"Si el espacio entre letras es muy 
+pequeño la lectura es INCOMODA."
+
+"Los parrafos se vuelven incomodos
+al no tener suficinete espacio entre
+lineas; esto generalmente aplica 
+textos largos.
+
+"Se debe de mantener una guia en 
+el diseño  consistente a lo largo
+de todo el sitio. Un estilo
+diferente en una serie de estilos
+iguales cambio el diseño y no se
+ve bien."
+
+-La tipografia tiene que crear 
+una buena experiencia de lectura-
+
+
+
+
+
+
+
+
+
+

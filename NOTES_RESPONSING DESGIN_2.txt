@@ -1,0 +1,24 @@
+RESPONSING DESING 
+-----------------
+2 Cosas
+*Viewport
+	Es la ventana virtualk
+	de nuestro navegador.
+	
+Tamaños de Pantallas
+	en Android y Iphones´s
+__________________________________
+The iPhone and many popular Android 
+phones have 3- to 4-inch (7–10 cm) 
+screens with 320—480 pixels
+(~160 dpi).
+ 
+*Mediaqueries
+	consultas al estado en el
+	que este nuestro website.
+Afectan tambien manipulan
+un "media" para impresion y/o para
+pantallas.
+hay mas de una forma de poner
+meduaqueries.
+Los media qu

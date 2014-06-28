@@ -1,0 +1,47 @@
+REGLAS DE CODIFICACION EN CSS
+*Todos los atributos van en orden
+alfabetico.
+*Orden de los estilos
+	-*.Pre-render
+	-Etiquetas
+		<header>
+		<nav>
+		<section>
+	-IDs
+	-Clases
+*Orden alfabetico en todos los estilos
+*Identar y hacer codigo LINDO.
+______________________________________
+	
+	HERENCIA de CSS
+Para aplicar un mismo bloque de 
+estilos a dos etiquetas, debemos
+colocar una coma entre etiquetas,
+de la siguiente forma:
+
+header figure,header h1
+{
+ display:inline-block;
+ vertical-align:top;
+}
+	Additional Tips
+-Con "em" se toma el valor de fuente
+mas cercano.-
+-La letra es mas legible en un color
+gris oscuro cuando tenemos un fondo
+blanco.-
+___________________________________
+
+	Tipografias
+*Debemos poner atencion en las
+siguientes tipografias:
+-EOT
+-SVG
+-TTF
+-WOFF
+*Estas son usadas en la web por
+navegadores como Chrome,IE,Safari
+Mobile y Opera.
+*WOFF es la tipografia usada por la
+ultima version de todos los
+navegadores.

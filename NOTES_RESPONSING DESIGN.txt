@@ -1,0 +1,167 @@
+RESPONSING DESING:PANTALLAS,
+MARGENES Y COLUMNAS.
+"Para que nuestros sitios queden 100% 
+legibles tenemosque lograr optimizar
+correctamente los textos que con-
+tienen."
+
+Responsive Design
+*pantallas
+	*márgenes 
+		*columnas variables
+
+"El formato de la pantalla determina
+los margenes a utilizar y estos nos 
+permiten establecer la RETICULA ,o
+grilla, para establecer el sistema de
+COLUMNAS a organizar."
+
+"Cuando diseñamos en responsive
+el formato de la pantalla es
+primordial para establecer
+los cambios en la interfaz entre
+DISTINTAS RESOLUCIONES, llamesele
+,Smartphones,SmartTV´s,Desktop,
+Ipads."
+
+"Hay que decidir en que resoluciones
+principales vamos a trabajar para 
+configurar los MARGENES en cada una,
+y a partir de esto determinas cómo 
+CAMBIAN los números y anchos de 
+columna." 
+
+"En los diferentes tipos de pantallas
+nuestros textos se estaran modificando
+constantemente,es por eso que, al
+diseñar con responsing debemos
+controlar como flactuan entre las
+resoluciones"
+__________________________________
+Cómo calcular el ancho de columna
+"Un ancho adecuado de columna ayuda 
+a la buena lectura."
+-Generalmente se calculan entre siete
+y 13 palabras por linea.
+"Este calculo nos ayuda a tambien
+a dar con el tamaño adecuado
+de la tipografia para el parrafo de
+texto"
+------------------------------------
+Frameworks: Para sistema de grillas
+en CCS.
+*960 grid system
+	*Foundation
+		*Bootstrap
+------------------------------------
+ALINEACION Y JUSTIFICACION
+"Los párrafos de texto también 
+se diseñan."
+"Los PARRAFOS de texto dibujan
+bloques en el diseño, es por eso
+que debemos ubicarlos de manera
+correcta en el soporte,asi como
+tambien,cuidar que el PARRAFO se
+legible."
+diseñan
+bloques 
+____________________________________
+El problema del parrafo justificacion
+en la web.
+"Al tratar de justificar un parrafo
+de texto se forman caminos o rios,
+tambien llamadas calaveras.Los
+rios,o calaveras, son huecos 
+inecesarios que se forman entre las
+las oraciones del parrafo 
+de texto cuando hay mucho espacio 
+entre palabras y/o letras; es por
+eso que en la mayoria de las 
+ocasiones,es mejor utilizar los
+parrafos alineados a la izquierda
+,o centrandos, en vez de justificar"
+------------------------------------
+Alineacion a la izquierda,centrado y
+a la derecha.Como utilizarlos
+------------------------------------
+"Para textos largos justificar hacia
+la izquierda"
+"Para textos cortos a los que queremos
+darle importancia o que destaquen 
+justificar hacia la derecha"
+"Para titulos y bajadas de titulos 
+de no mas de tres lineas,textos
+centrados"
+*Utilizar estas variantes en un diseño
+de parrafo de texto ayuda al dinamismo
+en la lectura y a jugar con el ritmo
+y la tension de la compocision
+tipografica,permite DESTACAR partes
+importantes y los niveles
+JERARQUICOS de la informacion.
+--------------------------------
+Propiedades para justificar,o alinear
+un texto son las siguientes:
+CODIGO:CSS3
+text-align:center,left,right,justify;
+_____________________________________
+	Serif vs Sans Serif.
+Si nuestro sitio contendra
+*mucha informacion
+Ejemplo
+	blogs,algo como Wikipedia.
+Lo mejor es utilizar,para los
+parrafos de textos,una tipografia
+con SERIF
+Para titulos,subtitulos,textos 
+destacados, se puede utilizar sin
+problemas una tipografia SIN serifa
+porque funciona bien para textos 
+cortos.	
+_____________________________________
+
+Para linkear una tipografia en el HTML
+-------------------------------------
+<link href=
+'http://fonts.googleapis.com/css?
+family=Bitter'rel='stylesheet' 
+type='text/css'>
+------------------------------------
+_____________________________________
+
+Para aplicar en el CSS3 Codigo
+-------------------------------------
+font-family: 'Bitter', serif;
+------------------------------------
+_____________________________________
+
+     Interlineado e Interletrado
+"El interlineado: es el espacio
+entre las lineas en un parrafo de
+texto, el interletrado es el espacio
+entre letas,o caracteres."
+------------------------------------
+css3 interlineado:line-height.
+	interletrado:letter-spacing
+------------------------------------
+"Estas propiedades ayudan a que el
+texto y los parrafos sean mas
+legibles, por otro lado tendremos 
+lineas muy ajustadas sino las
+agregamos.Cuando diseñamos para
+pantallas el interlineado e inter-
+letrado cambia asi que debmos ayudar
+a que el texto se lea con claridad:
+la estancia de lectura es otra en
+dispositivos moviles"
+
+"El interlineado es importante para
+darle espacio al texto entre una linea
+de parrafo y la otra, de esta manera
+muchas tipografías pueden llevar el 
+mismo tamaño pero varían su altura.
+_____________________________________
+
+
+
+
