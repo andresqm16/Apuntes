@@ -1,0 +1,80 @@
+Display property
+Cuando le aplicamos un float a una
+caja de tipo block,div,article,head-
+er,etc,todos los elementos inline
+giran alrededor del elemento float.
+
+Los elementos block tiene
+-margin y padding,pero al contrario
+de los elementos block los elemen
+tos inline no tienen ninguna de
+esas caractarizticas.
+
+La gran ventaja de"inline block" 
+es que al elemento que le agregas 
+la propoiedad inline-block es que
+va a tener la capacidad de que
+pueda tener mas elementos enfrente
+de el mismo en "linea."
+
+Elemento
+{
+ display:inline;
+ display:block;}
+ display:inline-block;
+}
+Block
+Un elemnto block-level comienza 
+en una nueva linea y se estira hasta
+la derecha e izquierda tan lejos
+como pueda.
+
+Inline
+Un elemento inline puede contener
+algo de texto dentro de un
+parrafo <span> como esto</span> sin
+interrumpir el flujo del parrafo. 
+
+Position
+Position relative le da a la caja
+cuatro nuevos atributos que no 
+son margin,sino top,left,right,
+bottom. Ahora la caja se ubicara en
+una position relativa a su caja mas
+cercana a la ezquina superior.
+
+Que es un utf-8?
+R: es una forma de codificar intern-
+amente el archivo para los sistemas
+operativos de tal manera que 
+podamos poner tildes
+
+Que es un <meta description>
+R: es un parrafo de 160 caracteres
+que necesitas en cada una tus 
+paginas para que describan sobre
+que es la pagina
+
+Additional Notes
+320px- retina iphone ancho
+1200 deja de expandirse
+tipos de formatos de imagenes
+.png
+.jpg
+# ID
+. Class
+width:ancho;
+<input *>
+La min font interactiva es 16px
+margin:orange
+padding:green
+RED#FF0000
+GREEN #00ff00
+BLUE #0000FF;
+
+Netflix Password and Username
+santos70g3@hotmail.com 
+password: tijuana42
+Clave del Wifi
+56902C2DC49 
+
