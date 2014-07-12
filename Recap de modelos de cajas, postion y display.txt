@@ -1,0 +1,90 @@
+Recap de modelos de cajas.
+-----------------------------
+Modelos de cajas, Propidades
+position y display.
+___________________________________
+
+Todas las etiquetas que sean
+modelos de caja tienen margenes y
+tienen la capacidad de flotar.
+
+1.-Que es una "caja" en html?
+R:las cajas pueden ser de tipo
+cualquier objeto en html que
+envuelva a otro y que le permita 
+tener margenes y que le flotar
+tambien.
+
+2.-Que etiquetas son tipo "caja"?
+R: Div,Parrafo,header,section,
+article,nav,aside
+Que es un modelo"caja."
+
+3.-Que propiedad tiene las
+etiqutas de modelo "caja" por
+defecto.?
+R: La propiedad por defecto
+que tienen las etiqutas de
+tipo caja es display.
+
+4.-Que valores tiene la propiedad
+display?
+R: La propiedad display tiene
+tres valores;inline,block e
+inline-block.
+
+6.-Ejemplos de los valores
+block,inline y inline-block de
+la propiedad display en las
+etiquetas de tipo caja.
+
+"Cuando una caja tiene la
+propiedad display de valor block
+todo lo que esta enfrente salta
+hacia la parte de abajo y
+le podemos agregar margenes y
+todo eso,de hecho las etiquetas
+de tipo caja ya vienen con esa
+propidades por defecto."
+
+"Cuando una caja tiene la
+propiedad display de valor  inline
+todos los elementos alrededor de la
+etiqueta se alinearan.
+para que una caja este dentro de 
+un texto se utiliza inline."
+
+"Cuando una caja tiene la
+propiedad display de valor 
+ inline-block esa etiqueta
+puede estar rodeada de texto pero
+con margenes de todo tipo,left,top
+right y bottom."
+___________________________________
+
+Tecnicas de posicionamiento de
+etiquetas de tipo cajas.
+
+1.-Poner las cajas a flotar.
+
+	Quick_Notes
+cuando ponemos a flotar una caja
+la caja pierde el margen
+
+las posicion por defecto de todas
+las cajas es la posicion "estatic"
+
+al agregar la propiead
+position con valor relative
+a un contendor,sea un div,article o
+section, todos los elementos,otras
+cajas,que esten dentro de esta 
+etiqueta adquieren las
+propiedades top left bottom y right.
+
+cuando se le agrega la propiedad
+absolute a una caja,la caja rompe
+el vinculo con el eje cartesiano
+de la caja principal y se va
+al punto izquierdo mas cercano 
+que encuentre

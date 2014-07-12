@@ -1,0 +1,8 @@
+Google y los estilos por defecto del
+navegador
+"user agent style sheet"
+Esta leyenda en el tab de developer
+tools nos indica que estilos se 
+automaticamente al navegador, o que
+estilos estan por defecto en el 
+navegador  de google chrome.

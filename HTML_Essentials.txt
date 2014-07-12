@@ -62,7 +62,7 @@ tipos de formatos de imagenes
 .png
 .jpg
 # ID
-. Class
+.Class
 width:ancho;
 <input *>
 La min font interactiva es 16px
@@ -77,4 +77,30 @@ santos70g3@hotmail.com
 password: tijuana42
 Clave del Wifi
 56902C2DC49 
+
+____________________________________
+Normalize y CSS3.
+Cuando comenzamos un diseño en
+css tenemos un problema grande y es
+es que los diseños en css se ven
+diferentes en multiples navegadores
+chrome,IE,Opera,Safari y Firefox.
+Estos navegadores vienen con diseños
+predeterminados diferentes.
+Lo que hace normalize es
+"estandarizar" todos los diseños de 
+los diferentes navegadores.
+Normalize es un archivo css,nunca
+olvidar eso, eso es lo mas
+fundamental.
+Normalize.css=
+Makes browsers render all elements
+more consistenly and "in line" with
+modern standards. It precisely
+targets only the styles that need
+normalizing.	
+ 
+
+
+
 
